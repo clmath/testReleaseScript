@@ -1,6 +1,10 @@
 {
 	"name": "testReleaseScript",
-	"version": "0.1.0",
+	"version": "0.2.0",
+	dependencies: {
+		"toto": 0.1.x,
+		"titi": 0.2.x
+	},
 	"homepage": "https://github.com/clmath/testReleaseScript",
 	"description": "Test module",
 	"main": "README.md",
