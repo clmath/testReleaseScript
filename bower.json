@@ -1,7 +1,7 @@
 {
 	"name": "testReleaseScript",
 	"version": "0.2.0",
-	dependencies: {
+	"dependencies": {
 		"toto": 0.1.x,
 		"titi": 0.2.x
 	},
