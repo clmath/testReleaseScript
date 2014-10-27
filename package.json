@@ -1,5 +1,5 @@
 {
-	"name": "testReleaseScript",
+	"name": "test-release-script",
 	"version": "0.4.3",
 	"description": "test module",
 	"main": "README.md",
