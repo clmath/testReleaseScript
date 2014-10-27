@@ -1,9 +1,9 @@
 {
 	"name": "testReleaseScript",
-	"version": "0.4.8",
+	"version": "0.4.9",
 	"dependencies": {
 		"toto": "0.3.x",
-		"titi": "0.2.1"
+		"titi": "0.2.2"
 	},
 	"homepage": "https://github.com/clmath/testReleaseScript",
 	"description": "Test module",
