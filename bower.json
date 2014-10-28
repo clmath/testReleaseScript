@@ -1,8 +1,8 @@
 {
 	"name": "testReleaseScript",
-	"version": "0.4.12",
+	"version": "0.4.14",
 	"dependencies": {
-		"toto": "0.3.x",
+		"toto": "0.4.0",
 		"titi": "0.2.2"
 	},
 	"homepage": "https://github.com/clmath/testReleaseScript",
