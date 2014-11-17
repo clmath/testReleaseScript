@@ -1,11 +1,11 @@
 {
 	"name": "test-release-script",
-	"version": "0.5.2",
+	"version": "0.5.3",
 	"description": "test module",
 	"main": "README.md",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/clmath/testReleaseScript.git"
 	},
-	private: true
+	"private": true
 }
