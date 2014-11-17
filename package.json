@@ -6,5 +6,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/clmath/testReleaseScript.git"
-	}
+	},
+	private: true
 }
