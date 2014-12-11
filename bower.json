@@ -1,6 +1,6 @@
 {
 	"name": "testReleaseScript",
-	"version": "0.5.3",
+	"version": "0.6.0",
 	"dependencies": {
 		"toto": "0.5.0",
 		"titi": "0.2.2"
