@@ -1,6 +1,6 @@
 {
 	"name": "test-release-script",
-	"version": "0.6.4",
+	"version": "0.6.5",
 	"description": "test module",
 	"main": "README.md",
 	"repository": {
